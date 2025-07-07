@@ -1,6 +1,9 @@
 # RPA_Challenge_Invoice_Extraction
 UiPath bot for extracting and uploading invoice data based on due dates
 
+[![Watch the video](https://img.youtube.com/vi/msx0Xek9tuY/0.jpg)](https://youtu.be/msx0Xek9tuY)
+
+
 # 📄 RPA Challenge Invoice Extraction Bot (UiPath)
 
 This UiPath automation bot extracts invoice data from a multi-tabbed web interface on the **RPA Challenge** site. It dynamically filters invoices by **due date** and uploads the processed data as an Excel file, completing the task in **under 47 seconds**.
